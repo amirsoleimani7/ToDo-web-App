@@ -13,7 +13,7 @@
 - adding a new task
 
 
-
+## Installation
 ```bash
 # Clone the repository
 git clone git@github.com:amirsoleimani7/personal-blog.git
